@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cmsy651.github.io/bird33a/sitemap.xml
+Sitemap: https://cmsy651.github.io/bird33a/pixnet.xml
+Sitemap: https://cmsy651.github.io/bird33a/pixnetChatGPTok.xml
+Sitemap: https://cmsy651.github.io/bird33a/Youtube.xml
+Sitemap: https://cmsy651.github.io/bird33a/XCC3dmaxcat.xml
+Sitemap: https://cmsy651.github.io/bird33a/X1987yk.xml
+Sitemap: https://cmsy651.github.io/bird33a/Poppeak.xml
+Sitemap: https://cmsy651.github.io/bird33a/Pinterest.xml
+Sitemap: https://cmsy651.github.io/bird33a/IG.xml
+Sitemap: https://cmsy651.github.io/bird33a/Giphy.xml
+Sitemap: https://cmsy651.github.io/bird33a/Ganjingworld.xml
+Sitemap: https://cmsy651.github.io/bird33a/Facebook.xml
